@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Walking in Flame – Volume II</title>
+    <style>
+      body {
+        font-family: Georgia, serif;
+        background-color: #fffaf0;
+        color: #333;
+        padding: 40px;
+        max-width: 800px;
+        margin: auto;
+      }
+      h1 {
+        text-align: center;
+        font-size: 2.2em;
+        margin-bottom: 10px;
+      }
+      h2 {
+        font-style: italic;
+        text-align: center;
+        margin-bottom: 30px;
+      }
+      img {
+        display: block;
+        margin: auto;
+        max-width: 100%;
+        height: auto;
+      }
+      ul {
+        line-height: 1.8;
+        padding-left: 0;
+        list-style-type: none;
+      }
+      li::before {
+        content: "🔥 ";
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Walking in Flame</h1>
+    <h2>Volume II – Ember-Grams of Endurance</h2>
+
+    <img src="volume-2-cover.jpg" alt="Walking in Flame – Volume II Cover">
+
+    <p style="text-align:center; font-style:italic; margin-top:10px;">
+      “He walks with those who endure.” – Volume II Motif
+    </p>
+
+    <ul>
+      <li><strong>Honor in the Unlikely</strong> – Page 1</li>
+      <li><strong>The Majesty of Your Creation</strong> – Page 3</li>
+      <li><strong>Provision in the Name of Jesus</strong> – Page 5</li>
+      <li><strong>He Will Do It Again</strong> – Page 7</li>
+      <li><strong>Pressure No More: A Declaration of Heart Peace</strong> – Page 10</li>
+      <li><strong>Never Failing Strength</strong> – Page 12</li>
+      <li><strong>Tears Never Make It to the Ground</strong> – Page 14</li>
+      <li><strong>I Know It Is You / Unmistakable Glory</strong> – Page 16</li>
+      <li><strong>I’m Glad I Got Up</strong> – Page 19</li>
+      <li><strong>I Stand in the Light of the Living God</strong> – Page 21</li>
+      <li><strong>Carried Through the Flame</strong> – Page 24</li>
+      <li><strong>I Encounter Him</strong> – Page 26</li>
+      <li><strong>The Voice That Shakes the Wilderness</strong> – Page 28</li>
+      <li><strong>Washed By the Creek, Sealed in Grace</strong> – Page 30</li>
+      <li><strong>Emerging from the Molt of Mercy</strong> – Page 32</li>
+      <li><strong>For Such a Strike as This</strong> – Page 34</li>
+      <li><strong>Anchored in the Unchanging</strong> – Page 35</li>
+      <li><strong>Mantled in the Morning</strong> – Page 38</li>
+      <li><strong>Healed and Whole</strong> – Page 40</li>
+      <li><strong>Ember-gram Heaven Backs My Words</strong> – Page 42</li>
+      <li><strong>About the Author</strong> – Page 44</li>
+    </ul>
+
+    <p><a href="index.html">← Return to Vestibule</a></p>
+  </body>
+</html>
